@@ -7,7 +7,7 @@ Lindesnes is a collection of principles that guide and align people in how to us
 
 ## Case work
 
-We want to introduce you to the Lindesnes principles and ask you to apply the principles to some real life scenarios. 
+We want to introduce you to the Lindesnes principles and ask you to apply the principles to a real life scenario. 
 
 1. Browse through the [Lindesnes principles](Lindesnes%20-%20Principles.pdf)
 2. Read through the [scenario](Lindesnes%20%E2%80%93%20Scenarios.pdf) 
